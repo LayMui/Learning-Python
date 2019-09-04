@@ -1,1 +1,2 @@
-# Learning-Python
+# python
+Learning Python
